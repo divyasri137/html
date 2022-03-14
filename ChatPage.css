@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.div1 {
+    height: 100vh;
+    font-family: Roboto;
+    color: #ffffff;
+    background-size: cover;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+
+.heading {
+    font-size: 20px;
+    text-align: center;
+    background-color: #323f4b;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.messages {
+    font-size: 13px;
+    padding: 20px;
+    width: 320px;
+    height: 6px;
+    border-width: 0px;
+    margin: 6px;
+
+}

@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 40vh;
+    background-size: cover;
+    font-family: Roboto;
+    margin: 1px;
+}
+
+.heading {
+    color: white;
+    font-size: 32px;
+    padding: 20px;
+}
+
+.image1 {
+    height: 100px;
+    width: 130px;
+}
+
+.container {
+    padding: 30px;
+}
+
+.image2 {
+    margin-left: 20px;
+}
+
+.image4 {
+    margin-left: 20px;
+}
+
+.h2 {
+    font-size: 15px;
+    color: #151765;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+.p2 {
+    color: #5a7184;
+    font-size: 15px;
+    margin-left: 18px;
+}
+
+.h3 {
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+.p3 {
+    margin-left: 40px;
+}
+
+.h4 {
+    margin-left: 30px;
+}
+
+.p4 {
+    margin-left: 25px;
+}
+
+.h5 {
+    margin-left: 40px;
+}
+
+.p5 {
+    margin-left: 35px;
+}
+
+.bg-container1 {
+    background-color: #151765;
+    height: 35vh;
+    background-size: cover;
+    padding: 20px;
+    color: white;
+}
+
+.imagepuri {
+    height: 120px;
+    width: 150px;
+}
+
+.para {
+    font-size: 14px;
+}
+
+.head1 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.para1 {
+    padding-left: 10px;
+}
+
+.card1h1 {
+    color: #151765;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card1p1 {
+    color: #5a7184;
+    font-size: 13px;
+}
+
+.card1p2 {
+    font-size: 12px;
+    color: #151765;
+}
+
+.card1 {
+    padding: 15px;
+}
+
+.para2 {
+    padding-left: 10px;
+}
+
+.btn1 {
+    height: 30px;
+    width: 80px;
+    background-color: #151765;
+    color: white;
+    border-radius: 15px;
+    border-width: 0px;
+    margin-left: 220px;
+}

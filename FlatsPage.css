@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+    font-family: Bree Serif;
+}
+
+.container {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+}
+
+.heading {
+    color: #f19116;
+    font-size: 24px;
+    margin: 20px;
+    padding-top: 10px;
+}
+
+.para1 {
+    color: #7b8794;
+}
+
+.btn1 {
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+    font-family: Roboto;
+}
+
+.container1 {
+    background-color: #222222;
+    height: 130vh;
+    background-size: cover;
+    font-family: Bree Serif;
+}
+
+.image1 {
+    height: 150px;
+    width: 80px;
+}
+
+.card2 {
+    height: 150px;
+    width: 330px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.heading2 {
+    font-size: 18px;
+    color: #0f0e46;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.para {
+    color: #0f0e46;
+    font-size: 14px;
+    margin: 10px;
+}
+
+.btn2 {
+    margin-left: 25px;
+    font-family: Roboto;
+}
+
+.image2 {
+    height: 50vh;
+}
+
+.container2 {
+    background-color: #222222;
+    height: 110vh;
+    font-family: Bree Serif;
+}
+
+.heading3 {
+    color: #f19116;
+    font-size: 24px;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.para2 {
+    color: #ffffff;
+    padding-left: 20px;
+    font-size: 14px;
+}
+
+.image3 {
+    height: 5vh;
+    padding-left: 20px;
+}
+
+.line {
+    background-color: white;
+    border-width: 2px;
+    width: 90%;
+}
+
+.btn3 {
+    margin-left: 20px;
+    font-weight: bold;
+}
